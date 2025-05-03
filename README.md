@@ -2,11 +2,12 @@
 ---
 
 - I'm an Applied Mathematics and Computer Science student at École Polytechnique de Paris
-- I am currently an intern at LBNL under the supervision of [Dr. William Collins](https://profiles.lbl.gov/11626-william-collins)
+- I am currently an intern at Criteo AI Lab under the supervision of [Dr. Patrick Gallinari](https://scholar.google.com/citations?user=rFaxB20AAAAJ&hl=fr), [Dr. Ludovic Dos Santos](https://scholar.google.fr/citations?user=TNPp0cwAAAAJ&hl=fr) and [Dr. Thibaut Issenhuth](https://thibautissenhuth.github.io)
 
 ##### Areas of interest :
 * Machine Learning
 * Natural Language Processing
+* Recommender Systems
 * Software Engineering 
 
 ## 💻 Tech Stack:
