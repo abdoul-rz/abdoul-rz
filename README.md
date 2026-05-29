@@ -1,8 +1,9 @@
 # Hi, I'm Abdoul Rahim! 👋
 ---
 
-- I'm an Applied Mathematics and Computer Science student at École Polytechnique de Paris
-- I am currently an intern at Criteo AI Lab under the supervision of [Dr. Patrick Gallinari](https://scholar.google.com/citations?user=rFaxB20AAAAJ&hl=fr), [Dr. Ludovic Dos Santos](https://scholar.google.fr/citations?user=TNPp0cwAAAAJ&hl=fr) and [Dr. Thibaut Issenhuth](https://thibautissenhuth.github.io)
+I am pursuing a PhD in Generative Recommendation jointly at the Criteo AI Lab and Sorbonne University. 
+
+<!--  under the supervision of [Dr. Patrick Gallinari](https://scholar.google.com/citations?user=rFaxB20AAAAJ&hl=fr), [Dr. Ludovic Dos Santos](https://scholar.google.fr/citations?user=TNPp0cwAAAAJ&hl=fr) and [Dr. Thibaut Issenhuth](https://thibautissenhuth.github.io) -->
 
 ##### Areas of interest :
 * Machine Learning
